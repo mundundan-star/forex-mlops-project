@@ -1,0 +1,7 @@
+pandas
+s3fs
+fastapi
+joblib
+numpy
+scikit-learn == 1.6.1
+uvicorn
